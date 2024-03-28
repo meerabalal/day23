@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+
+}
+
+   .About h1{
+    padding-left: 5rem;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+   
+}
+
+.container{
+    padding-left: 5rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 3rem;
+    
+ }
+
+ .box1 img{
+    height: 12rem;
+    width: 18rem;
+    border-radius: 5%;
+
+   
+ }
+ .container .box1 h3{
+   margin-top: 1rem;
+   /* text-align: center; */
+  
+   width: 18rem;
+   
+ }
+ .box1 p{
+  
+    width: 18rem;
+    margin-top: 1rem;
+    /* text-align: center; */
+    
+ }
+
+ 
+
+ 
